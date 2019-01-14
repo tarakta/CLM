@@ -18,8 +18,8 @@ $ give me super-powers
 
 Once you're strong enough, save the world:
 
-```
-In eWizard v1.17.0 we have fixed some issues, as well as added new functionality.
+```text
+In eWizard v1.17.0 we have fixed some issues and added new functionality.
 
 So, with eWizard v1.17.0 you can publish emails to Viseven CRM, publish e-Detailers to Adobe Experience Manager, set up custom fields when you are publishing content to CT Presenter, and search assets by various parameters in Veeva Vault Digital Assets.
 
