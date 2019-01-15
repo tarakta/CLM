@@ -1,8 +1,14 @@
 ---
-
-
+description: Welcome to eWizard Documentation!
 ---
 
+# Initial page
+
+## Getting Super Powers
+
+ Becoming a super hero is a fairly straight forward process! Superpowers you get with the version 1.17.0:
+
+```text
 <h2 id="getting-super-news">Getting Super News</h2>
 <p>Becoming a super hero is a fairly straight forward process! Superpowers you get with the version 1.17.0:</p>
 <h2 id="edit-in-ewizard">Edit in eWizard</h2>
@@ -47,4 +53,9 @@ It is intended to fill your custom fields out while publishing a presentation. A
 <h2 id="вертикальный-ввод-японского-текста">Вертикальный ввод японского текста</h2>
 <p>Мы добавили новую возможность вертикального ввода японского текста. Вводите текст, как обычно, а затем просто измените его направление. Только и всего!</p>
 <p><img src="https://i.imgur.com/EKfueHd.png" alt=""></p>
+
+
+```
+
+
 
